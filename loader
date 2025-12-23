@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/onseyoff/RTX/refs/heads/main/main"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/torikooo/368f299af4e4c4659ae34b5c5efc1a16/raw/8f7384de76cfb3e843995970b1d7ebff994c8a87/FE%2520Fling%2520TrollGUI"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"))()
